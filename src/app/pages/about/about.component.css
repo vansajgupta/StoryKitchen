@@ -1,0 +1,16 @@
+.design{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+    font-style: italic;
+    font-size: large;
+    font-weight: bold;
+   
+   
+    
+}
+.highlight{
+    color: var(--primary-color);
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}

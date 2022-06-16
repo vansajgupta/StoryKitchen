@@ -1,0 +1,12 @@
+form{
+    width: 50%;
+    margin-top: 30%;
+
+}
+img{
+    width: 100%;
+    object-fit: cover;
+    padding: 10px;
+    border-radius: 6px;
+    
+}
